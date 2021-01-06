@@ -5,3 +5,10 @@ something like a TV show episode. Most times the image is not in a 16:9 aspect r
 though, and manually cropping thumbnails for several seasons of a TV show is tedious.
 This program automates the cropping of the thumbnails by detecting faces in the images
 and cropping them in frame.
+
+## Example
+### Input
+![](https://i.imgur.com/Dxk43NU.png)
+
+### Cropped output image (with debug info)
+![](https://i.imgur.com/24kI5yj.png)
